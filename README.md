@@ -13,8 +13,3 @@ A passionate Front-End developer from France
     📄 Know about [my experiences](https://portfolio-1-daviddaill.vercel.app/resume)
 
     ⚡ Fun fact I am also a Lighting Engineer for the Events Industry.
-
-
-Connect with me:
-[https://fontawesome.com/icons/linkedin?f=brands&s=solid] (https://www.linkedin.com/in/david-daillere-7a1103161/)
-
