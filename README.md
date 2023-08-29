@@ -6,7 +6,7 @@ A passionate Front-End developer from France
 
     🌱 I’m currently learning Full-Stack engineering
 
-    👨‍💻 All of my projects are available at https://github.com/"Daviddaill
+    👨‍💻 All of my projects are available at [Git-Hub](https://github.com/"Daviddaill)
 
     📫 How to reach me dailleredavid@gmail.com
 
