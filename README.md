@@ -14,6 +14,7 @@ A passionate Front-End developer from France
 
     ⚡ Fun fact I am also a Lighting Engineer for the Events Industry.
 
+
 Connect with me:
- [@icon-linkedin](https://www.linkedin.com/in/david-daillere-7a1103161/)
+[https://fontawesome.com/icons/linkedin?f=brands&s=solid] (https://www.linkedin.com/in/david-daillere-7a1103161/)
 
