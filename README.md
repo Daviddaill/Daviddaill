@@ -2,9 +2,9 @@
 <h3 align="center" >A passionate Front-End Developer from France</h3>
 <img align="right" width= "300" alt="coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently Looking for a **new project**
 
-- 🌱 I’m currently learning **Full-Stack Engineering**
+- 🌱 I'm a newly certified **Front-End Engineer** !
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-1-daviddaill.vercel.app/)
 
