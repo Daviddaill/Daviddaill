@@ -6,7 +6,7 @@
 
 - 🌱 I'm a newly certified **Front-End Engineer** !
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-1-daviddaill.vercel.app/)
+- 👨‍💻 All of my projects are available at [daviddaillere.com](https://daviddaillere.com)
 
 - 📫 How to reach me **dailleredavid@gmail.com**
 
