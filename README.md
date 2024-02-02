@@ -6,7 +6,7 @@
 
 - 🌱 I'm a newly certified **Front-End Engineer** !
 
-- 👨‍💻 All of my projects are available at <a href="https://daviddaillere.com" target="_blank">daviddaillere.com</a>
+- 👨‍💻 All of my projects are available at [daviddaillere](https://daviddaillere.com/){:target="_blank"}
 
 - 📫 How to reach me **dailleredavid@gmail.com**
 
