@@ -2,9 +2,9 @@
 <h3 align="center" >A passionate Front-End Developer from France</h3>
 <img align="right" width= "300" alt="coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-- 🔭 I’m currently Looking for a **new project**
+- 🔭 I’m always Looking for **new project**
 
-- 🌱 I'm a newly certified **Front-End Engineer** !
+- 🌱 I'm a certified **Front-End Engineer** !
 - 👨‍💻 All of my projects are available at <a href="https://daviddaillere.com" target="_blank">David Daillere</a>
 
 - 📫 How to reach me **dailleredavid@gmail.com**
